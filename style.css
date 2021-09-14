@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("background.png");
+}
+
+.signup1 {
+    text-align: center;
+    display: inline-block;
+    margin-left: 520px;
+    margin-right: 10px;
+}
+
+.signup2 {
+    display: inline-block;
+    text-align: left;
+    background-color: white;
+    border: lightgray 3px solid;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.signup {
+    margin-top: 250px;
+}
+
+input {
+    width: 250px;
+}
+
+.signupbutton {
+    font-size: 20px;
+    background-color: limegreen;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.headbar {
+    width: 100%;
+    text-align: center;
+    background: darkblue;
+    height: 50px;
+}
+
+.headimg {
+    height: 40px;
+    margin-top: 5px;
+}
